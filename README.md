@@ -1,2 +1,2 @@
 # STG-framework
-弹幕射击类游戏轮子
+Unity的弹幕射击类游戏轮子
